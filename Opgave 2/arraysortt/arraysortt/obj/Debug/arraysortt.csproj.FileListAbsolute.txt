@@ -1,0 +1,8 @@
+C:\Users\jfbt2\Documents\GitHub\Opgave-om-algoritmer\Opgave 2\arraysortt\arraysortt\bin\Debug\arraysortt.exe.config
+C:\Users\jfbt2\Documents\GitHub\Opgave-om-algoritmer\Opgave 2\arraysortt\arraysortt\bin\Debug\arraysortt.exe
+C:\Users\jfbt2\Documents\GitHub\Opgave-om-algoritmer\Opgave 2\arraysortt\arraysortt\bin\Debug\arraysortt.pdb
+C:\Users\jfbt2\Documents\GitHub\Opgave-om-algoritmer\Opgave 2\arraysortt\arraysortt\obj\Debug\arraysortt.csproj.AssemblyReference.cache
+C:\Users\jfbt2\Documents\GitHub\Opgave-om-algoritmer\Opgave 2\arraysortt\arraysortt\obj\Debug\arraysortt.csproj.SuggestedBindingRedirects.cache
+C:\Users\jfbt2\Documents\GitHub\Opgave-om-algoritmer\Opgave 2\arraysortt\arraysortt\obj\Debug\arraysortt.csproj.CoreCompileInputs.cache
+C:\Users\jfbt2\Documents\GitHub\Opgave-om-algoritmer\Opgave 2\arraysortt\arraysortt\obj\Debug\arraysortt.exe
+C:\Users\jfbt2\Documents\GitHub\Opgave-om-algoritmer\Opgave 2\arraysortt\arraysortt\obj\Debug\arraysortt.pdb
